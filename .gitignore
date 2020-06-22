@@ -1,0 +1,16 @@
+# Top-level dirs to ignore in VCS
+yarn/
+nvm/
+coc/
+fisher/
+configstore/
+
+# Subdirectories to ignore in VCS
+ranger/plugins/
+nvim/plugged/
+nvim/.netrwhist
+nvim/autoload
+fish/completions/
+fish/conf.d/
+fish/functions/ #will add this back one day when I add custom functions
+
