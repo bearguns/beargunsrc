@@ -1,12 +1,12 @@
 font:
   normal:
-    family: Cascadia Code
+    family: Source Code Pro
     style: Regular
   bold:
-    family: Cascadia Code
+    family: Source Code Pro
     style: Bold
   italic:
-    family: Cascadia Code Italic
+    family: Source Code Pro Italic
     size: 13.0
   offset:
     x: 0

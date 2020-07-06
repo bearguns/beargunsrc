@@ -1,8 +1,11 @@
 set -x EDITOR nvim
 set -x FISHCONFIG ~/.config/fish/config.fish
-set -x TERMINAL iterm2
+set -x TERMINAL alactritty
 set -x XDG_CONFIG_HOME ~/.config
 set -x VISUAL nvim
+set -x GO111MODULE on
+set -x GOPATH $HOME/code/go
+set -x PATH $PATH $GOPATH/bin
 
 # Configure my fancy prompt
 set SPACEFISH_PACKAGE_SHOW false
